@@ -15,3 +15,7 @@ header {
 h2 {
     color: rgb(30, 105, 116)
 }
+
+.highlight-list {
+    background-color: rgba(17, 6, 172, 0.05);
+}
