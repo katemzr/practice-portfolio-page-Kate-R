@@ -1,4 +1,8 @@
-
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;  
+}
 
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -16,6 +20,28 @@ h2 {
     color: rgb(30, 105, 116)
 }
 
+p, h2, h3, h4, h5, img {
+    margin-bottom: 1em;
+}
+
+ul {
+    margin-bottom: 1em;
+    padding-left: 40px;
+}
+
+footer {
+    margin-top: 2em;
+}
+
 .highlight-list {
     background-color: rgba(17, 6, 172, 0.05);
+    padding: 15px 20px 5px;
+    border-radius: 5px;
+    margin-bottom: 1em;
+}
+
+#about-me {
+    background-color: rgba(30, 105, 116, 0.25);
+    padding: 20px;
+    border: 2px solid blanchedalmond;
 }
