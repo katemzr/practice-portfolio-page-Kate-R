@@ -1,0 +1,17 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(176, 209, 176);
+    color: rgb(9, 29, 94)
+}
+
+header {
+    background-color: #bbbbee;
+    border-bottom: 3px solid rgb(9, 29, 94);
+    padding: 15px
+}  
+
+h2 {
+    color: rgb(30, 105, 116)
+}
