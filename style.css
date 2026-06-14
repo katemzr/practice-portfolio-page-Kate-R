@@ -33,6 +33,11 @@ h3{
     justify-content: center;
 }
 
+h4, h5 {
+    font-size: larger;
+    font-weight: bolder;
+}
+
 .image-paragraph-container {
     display: flex;
     flex-direction: row;
@@ -59,6 +64,8 @@ footer {
     padding: 15px 20px 5px;
     border-radius: 5px;
     margin-bottom: 1em;
+    border: 2px solid blanchedalmond;
+    font-weight: bolder;
 }
 
 #about-me {
@@ -67,3 +74,6 @@ footer {
     border: 2px solid blanchedalmond;
 }
 
+#contact-me {
+    margin-left: 2em;
+}
